@@ -3,7 +3,5 @@
 ### NICKNAME : KENG
 ### STUDENT ID : 6610685163
 ### FACULTY : ENGINEERING
-### FAVOURITE FOOD : KAPROW MOO KROB
-### FAVOURITE FOOTBALL TEAM : MANCHESTER UNITED
 
 ![image](https://github.com/user-attachments/assets/087030df-08c1-4cb1-aa9a-0d8a748c193e)
