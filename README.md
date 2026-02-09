@@ -1,1 +1,1 @@
-3rd Year Computer Engineering Student at Thammasat University
+3rd Year Computer Engineering Student at Thammasat University.
